@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RL</title>
+    <link rel="stylesheet" href="habiaunavez.css">
+</head>
+<body>
+  <header class="encabezado">
+    <nav class="menu">
+        <div>
+            <img src="im/RL.png" alt="logo" class="logo">
+        </div>
+
+        <div class="barra">
+            <ul class="menu-horizontal">
+                <li><a href="#">Inicio</a></li>
+                <li>
+               
